@@ -97,6 +97,10 @@
   margin: 0;
 }
 
+.bgded {
+  background-image: url('images/demo/backgrounds/01.jpg');
+}
+
 .services {
   margin-bottom: 80px;
 }
@@ -654,7 +658,6 @@ nav ul, nav ol {
   z-index: 999;
   display: inline-block;
   position: fixed;
-  visibility: hidden;
   bottom: 20px;
   right: 20px;
   width: 36px;
